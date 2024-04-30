@@ -1,0 +1,17 @@
+python-dotenv==0.20.0
+requests
+DateTime
+python-telegram-bot==13.12
+telethon
+uptime
+speedtest-cli
+py-cpuinfo
+colorama
+tqdm
+mindai
+googletrans
+langdetect
+gTTS
+Kvsqlite
+pyrogram
+pyromod
